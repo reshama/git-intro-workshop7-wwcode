@@ -4,6 +4,7 @@
 
 #### Contact Info
 Presenter:  Reshama Shaikh  
+Blog:  https://reshamas.github.io  
 LinkedIn:  https://www.linkedin.com/in/reshamas   
 Twitter:  https://twitter.com/reshamas  
 GitHub:  https://github.com/reshamas  
@@ -20,9 +21,15 @@ Email:   rs2715@stern.nyu.edu
 [Git Workshop for Datanauts, Nov 27, 2017]
 
 #### Host
-* openNASA:  https://open.nasa.gov/blog/  
-* Datanauts:  https://open.nasa.gov/explore/datanauts/ 
+* BounceX:  https://www.bouncex.com  
+* NYC Women Who Code:  https://www.womenwhocode.com/nyc 
 
+#### Helpers
+* [Nilufer Polat](https://www.linkedin.com/in/niluferpolat/)
+* [Lindsey Dragun](https://www.linkedin.com/in/ldragun/)
+* [Kate Eldridge](https://www.linkedin.com/in/kateeldridge/)
+* [Monica Powell](https://www.linkedin.com/in/monicampowell/)
+* [Ruiye Ni](https://www.linkedin.com/in/ruiye-ni-43a23516/)
 ---
 
 ### Installation
