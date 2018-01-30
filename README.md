@@ -18,7 +18,7 @@ Email:   rs2715@stern.nyu.edu
 * Organizer of [NYC PyLadies meetup group](https://www.meetup.com/NYC-PyLadies/)
 
 #### Event
-[Git Workshop for Datanauts, Nov 27, 2017]
+[Git Workshop for Women Who Code, Jan 30, 2018](https://www.meetup.com/WomenWhoCodeNYC/events/245921277/)
 
 #### Host
 * BounceX:  https://www.bouncex.com  
